@@ -8,4 +8,4 @@ output = input("Output name: ")
 
 os.system("g++ " + name + " -o " + output)
 
-os.system("./output")
+os.system("./" + output)
