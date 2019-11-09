@@ -1,0 +1,9 @@
+#!/usr/bin/python3
+
+import os
+
+name = input("C++ file name: ")
+
+output = input("Output name: ")
+
+os.system("g++ " + name + " -o " + output)
