@@ -1,6 +1,6 @@
 # autogplusplus
 
-Automate g++ in Python3
+Automate g++ in Python3 and Executes It
 
 # Requirements
 
